@@ -93,7 +93,8 @@ PRODUCT_PACKAGES := \
     hcitool \
     bttest \
     com.android.future.usb.accessory \
-    whisperd
+    whisperd \
+    CameraLauncher \
 
 # for bugmailer
 PRODUCT_PACKAGES += send_bug
