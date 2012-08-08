@@ -11,3 +11,9 @@ debug.nfc.se=false
 
 # set default lcd density to TVDPI
 ro.sf.lcd_density=213
+
+# hardware info
+ro.device.cpu=1.3GHz quad-core Tegra 3
+ro.device.gpu=NVidia GeForce 12-core GPU
+ro.device.front_cam=1.2 MP
+ro.device.screen_res=1280x800
